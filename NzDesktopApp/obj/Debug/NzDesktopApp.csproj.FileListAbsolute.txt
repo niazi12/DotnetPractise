@@ -1,0 +1,7 @@
+C:\Users\Public\GamesDev\NzDesktopApp\bin\Debug\NzDesktopApp.exe.config
+C:\Users\Public\GamesDev\NzDesktopApp\bin\Debug\NzDesktopApp.exe
+C:\Users\Public\GamesDev\NzDesktopApp\bin\Debug\NzDesktopApp.pdb
+C:\Users\Public\GamesDev\NzDesktopApp\obj\Debug\NzDesktopApp.csproj.AssemblyReference.cache
+C:\Users\Public\GamesDev\NzDesktopApp\obj\Debug\NzDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Public\GamesDev\NzDesktopApp\obj\Debug\NzDesktopApp.exe
+C:\Users\Public\GamesDev\NzDesktopApp\obj\Debug\NzDesktopApp.pdb
